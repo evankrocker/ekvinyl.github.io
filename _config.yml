@@ -2,6 +2,11 @@
 # This file contains configuration flags to customize your site
 #
 
+collections:
+ records:
+  output: true
+  permalink: /record/:name
+
 # Name of your site (displayed in the header)
 name: Your Name
 
